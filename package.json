@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "name": "discord.-giveaway-bot",
+  "version": "1.0.0",
+  "description": "A Simple useful giveaway bot for discord coded in Discord.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "arisamiga",
+  "license": "Apache-2.0"
+}
